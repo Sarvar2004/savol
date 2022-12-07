@@ -15,4 +15,5 @@ int main(){
 		scanf("%d",&array[i]); // int seriyani qiymatini to'ldiyapmiz
 	}
 	CHIQAR(array,n);
+	return 0;
 }
