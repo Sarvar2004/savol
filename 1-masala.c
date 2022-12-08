@@ -14,6 +14,7 @@ int main(){
 	for(int i = 0; i<n; i++){
 		scanf("%d",&array[i]); // int seriyani qiymatini to'ldiyapmiz
 	}
+	printf("masala 1 bu")
 	CHIQAR(array,n);
 	return 0;
 }
